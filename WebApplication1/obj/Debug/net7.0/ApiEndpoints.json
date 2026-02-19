@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MathAPI.Controllers.CalculatorController",
+    "Method": "Calculate",
+    "RelativePath": "api/Calculator/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MathAPI.Models.CalcRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Double",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

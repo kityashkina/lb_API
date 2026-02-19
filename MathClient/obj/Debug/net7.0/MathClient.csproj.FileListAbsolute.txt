@@ -1,0 +1,15 @@
+C:\Users\Student\Downloads\нашAPI\MathClient\bin\Debug\net7.0\MathClient.exe
+C:\Users\Student\Downloads\нашAPI\MathClient\bin\Debug\net7.0\MathClient.deps.json
+C:\Users\Student\Downloads\нашAPI\MathClient\bin\Debug\net7.0\MathClient.runtimeconfig.json
+C:\Users\Student\Downloads\нашAPI\MathClient\bin\Debug\net7.0\MathClient.dll
+C:\Users\Student\Downloads\нашAPI\MathClient\bin\Debug\net7.0\MathClient.pdb
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.AssemblyInfo.cs
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.dll
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\refint\MathClient.dll
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.pdb
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\MathClient.genruntimeconfig.cache
+C:\Users\Student\Downloads\нашAPI\MathClient\obj\Debug\net7.0\ref\MathClient.dll
