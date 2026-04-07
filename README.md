@@ -12,6 +12,7 @@
 |-------|---------------------|----------|
 | [`lb1`](https://github.com/kityashkina/lb_API/tree/lb1) | Лабораторная работа №1 | Введение в Web API. |
 | [`lb2`](https://github.com/kityashkina/lb_API/tree/lb2) | Лабораторная работа №2 | WPF-приложение + Web API + база данных. |
+| [`lb3`](https://github.com/kityashkina/lb_API/tree/lb3) | Лабораторная работа №3 | Контроллеры и маршрутизация. |
 
 *(В дальнейшем здесь будут добавляться новые лабораторные работы*
 
