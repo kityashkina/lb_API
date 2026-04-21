@@ -10,25 +10,20 @@
 
 | Ветка | Лабораторная работа | Описание |
 |-------|---------------------|----------|
-| [`lb1`](https://github.com/kityashkina/lb_API/tree/lb1) | Лабораторная работа №1 | Введение в Web API. |
-| [`lb2`](https://github.com/kityashkina/lb_API/tree/lb2) | Лабораторная работа №2 | WPF-приложение + Web API + база данных. |
-| [`lb3`](https://github.com/kityashkina/lb_API/tree/lb3) | Лабораторная работа №3 | Контроллеры и маршрутизация. |
+| [`lb1`](https://github.com/kityashkina/lb_API/tree/lb1) | Лабораторная работа №1 | Введение в Web API (C#) |
+| [`lb2`](https://github.com/kityashkina/lb_API/tree/lb2) | Лабораторная работа №2 | WPF-приложение + Web API + база данных (MSSQL) |
+| [`lb3`](https://github.com/kityashkina/lb_API/tree/lb3) | Лабораторная работа №3 | Контроллеры и маршрутизация в ASP.NET Web API |
+| [`lb4`](https://github.com/kityashkina/lb_API/tree/lb4) | Лабораторная работа №4 | Получение данных и форматирование ответов в ASP.NET Web API |
+| [`lb5`](https://github.com/kityashkina/lb_API/tree/lb5) | Лабораторная работа №5 | Создание ресурсов (POST) в ASP.NET Web API |
+| [`lb6`](https://github.com/kityashkina/lb_API/tree/lb6) | Лабораторная работа №6 | Разделение приложения на слои (Layered Architecture) в ASP.NET Core Web API |
+| [`lb7`](https://github.com/kityashkina/lb_API/tree/lb7) | Лабораторная работа №7 | Авторизация и аутентификация в ASP.NET Core Web API (JWT) |
 
-*(В дальнейшем здесь будут добавляться новые лабораторные работы*
+## 📦 Общая инструкция по запуску (для любой лабораторной)
 
-## 📦 Установка и запуск лабораторной работы №1
-
-### Вариант 1: Скачать ZIP-архив
-1. Переключитесь на ветку `lb1`
+1. Переключитесь на нужную ветку (например, `lb1`)
 2. Нажмите зеленую кнопку **"Code"** ⬇️
 3. Выберите **"Download ZIP"**
 4. Распакуйте архив на компьютере
-5. Откройте файл решения `LabRabota1.sln` в Visual Studio 2022
-6. Запустите проект (клавиша F5)
+5. Откройте файл решения (`*.sln`) в Visual Studio
+6. Запустите проект (клавиша `F5`)
 
-### Вариант 2: Клонировать через Visual Studio
-1. Откройте Visual Studio 2022
-2. Нажмите **"Клонировать репозиторий"** (Clone repository)
-3. В поле "Расположение репозитория" вставьте ссылку: `https://github.com/kityashkina/lb_API`
-4. Нажмите **"Клонировать"**
-5. После загрузки в правом нижнем углу переключитесь на ветку `lb1`
